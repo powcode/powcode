@@ -6,10 +6,9 @@
 
 ---
 
-<p align="center">
-  
 
-# 🐢 Slow code is still code — one commit a day, no matter what
+  
+## 🐢 Slow code is still code — one commit a day, no matter what</p>
 
 
 <div align="center">
